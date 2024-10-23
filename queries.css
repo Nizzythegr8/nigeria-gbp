@@ -115,7 +115,15 @@
   }
   .flex {
     display: block;
-    margin-top: 9rem !important;
+    /* margin-top: 9rem !important; */
+  }
+
+  /* STRATEGIES */
+  .strategies {
+    padding: 7% 3%;
+  }
+  .strategies .row.flex {
+    margin-top: 35px;
   }
   /* PROJECTS */
   .card-list .card-item .card-link {

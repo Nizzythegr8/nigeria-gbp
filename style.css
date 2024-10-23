@@ -438,6 +438,12 @@ header.header {
   margin: 30px 0 5px;
 }
 
+.card-button span {
+  font-family: "Poppins", sans-serif;
+  text-transform: capitalize;
+  font-size: 80%;
+}
+
 .card-wrapper .swiper-pagination-bullet {
   height: 13px;
   width: 13px;
