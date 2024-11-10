@@ -134,7 +134,7 @@
     font-size: 90%;
   }
   .card-wrapper .swiper-slide-button {
-    display: none;
+    font-size: 12px;
   }
 
   /* STEPS */
@@ -236,6 +236,7 @@
   .section-forms {
     padding-bottom: 65%;
   }
+  
   .grid-container .row {
     width: 60%;
   }

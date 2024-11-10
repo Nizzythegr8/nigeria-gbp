@@ -747,6 +747,12 @@ cite img {
   color: #555;
 }
 
+.section-forms button a:link,
+  .section-forms button a:visited{
+    text-decoration: none;
+    color: white;
+  }
+  
 .form-group {
   width: 70%;
   margin-top: 20px;
